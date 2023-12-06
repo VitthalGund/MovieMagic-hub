@@ -1,7 +1,5 @@
 # MovieMagic Hub
 
-## Motivation
-
 Welcome to MovieMagic Hub, a cinematic haven created with a deep passion for storytelling and the magic of entertainment. In a world filled with an overwhelming array of movies and TV shows, MovieMagic Hub is born from the belief that navigating this vast landscape should be a delightful and enriching experience for every user.
 
 **Our Motivation:**
