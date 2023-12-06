@@ -2,11 +2,11 @@
 
 Welcome to MovieMagic Hub, a cinematic haven created with a deep passion for storytelling and the magic of entertainment. In a world filled with an overwhelming array of movies and TV shows, MovieMagic Hub is born from the belief that navigating this vast landscape should be a delightful and enriching experience for every user.
 
-**Our Motivation:**
+## **Our Motivation:**
 
 Movies and TV shows are more than mere entertainment; they are a gateway to different worlds, emotions, and perspectives. The motivation behind MovieMagic Hub is to build a community-driven platform that celebrates the art of cinema. We want to provide a space where users can seamlessly discover, engage, and share their favorite stories, creating a collective journey through the diverse and enchanting world of film and television.
 
-**Why MovieMagic Hub?**
+## **Why MovieMagic Hub?**
 
 - **Passion for Storytelling:** We are driven by our love for compelling narratives and the impact they have on individuals and communities. MovieMagic Hub is a testament to our belief in the transformative power of storytelling.
 
