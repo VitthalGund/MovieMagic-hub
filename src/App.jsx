@@ -57,7 +57,7 @@ function App() {
     };
 
     return (
-        <BrowserRouter basename="/MovieMagic-hub">
+        <BrowserRouter basename="MovieMagic-hub">
             <Header />
             <Routes>
                 <Route path="/" element={<Home />} />
