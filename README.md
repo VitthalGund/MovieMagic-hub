@@ -33,7 +33,7 @@ Movies and TV shows are more than mere entertainment; they are a gateway to diff
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/MovieMagic-Hub.git
+git clone https://github.com/VitthalGund/MovieMagic-Hub.git
 ```
 
 2. Change into the project directory:
